@@ -1,1 +1,8 @@
 
+User - Rithish
+Soap - 45.rs
+Shampoo - 10.rs
+
+User - Vasanth
+Detergent - 100.rs
+Vegetable - 40.rs
