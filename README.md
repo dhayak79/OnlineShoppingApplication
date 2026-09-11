@@ -21,4 +21,3 @@ A simple online shopping website developed using HTML, CSS and JavaScript.
 3. Open index.html in a browser
 
 ## Author
-Vasanth
