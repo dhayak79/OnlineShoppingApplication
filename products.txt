@@ -6,3 +6,11 @@ Shampoo - 10.rs
 User - Vasanth
 Detergent - 100.rs
 Vegetable - 40.rs
+User - Dhaya
+Scent - 150.rs
+Sun Screen - 200.rs
+
+User - Suriya
+Dumbell - 1000.rs
+Watch - 800.rs
+
