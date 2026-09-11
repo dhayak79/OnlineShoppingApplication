@@ -1,1 +1,3 @@
-
+Cart item
+Item Name:Biscuit
+Item Price:$100
