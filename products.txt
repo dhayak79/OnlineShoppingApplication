@@ -14,3 +14,6 @@ User - Suriya
 Dumbell - 1000.rs
 Watch - 800.rs
 
+User - Shriram
+Soap - 40.rs
+Shampoo - 100.rs
