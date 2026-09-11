@@ -21,3 +21,10 @@ A simple online shopping website developed using HTML, CSS and JavaScript.
 3. Open index.html in a browser
 
 ## Author
+Dhaya
+
+##Colabrators
+Orders.txt -> dhaya
+Cart.txt -> vasa
+Product.txt -> suriya
+Users.txt -> rithish
