@@ -3,3 +3,5 @@ Item Name:Biscuit
 Item Price:$100
 Item Quantity:2
 Item GST:10%
+Item Discount:$20
+Item Total:$200
