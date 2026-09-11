@@ -1,3 +1,5 @@
 Cart item
 Item Name:Biscuit
 Item Price:$100
+Item Quantity:2
+Item GST:10%
